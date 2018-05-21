@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #eee;
+}
+article {
+    overflow: hidden;
+}
+p {
+    margin-right: 20px;
+}
+.btnaclk {
+    background-color: #fff6ba;
+    border: 0;
+}
+.btnaclk:hover {
+    background-color: aqua;
+}
+.btnmn:hover {
+    background-color: aqua;
+}
+.btnsde {
+    text-align: center;
+    border-width: 2px;
+    background-color: #ff8f60;
+    padding: 5px;
+}
+.btnsde:hover {
+    background-color: brown;
+}
